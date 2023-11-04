@@ -1,5 +1,5 @@
 # Lexus
-Mobile and Web application using React, React Native, Expo, Express, JWT, Moongose and MongoDB.
+Mobile and Web application using NextJS, React Native, Expo, Express, JWT, Moongose and MongoDB.
 
 Initial folder structure:
 
